@@ -1,0 +1,15 @@
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\bin\Debug\net6.0\Desafio c# dio.exe
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\bin\Debug\net6.0\Desafio c# dio.deps.json
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\bin\Debug\net6.0\Desafio c# dio.runtimeconfig.json
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\bin\Debug\net6.0\Desafio c# dio.dll
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\bin\Debug\net6.0\Desafio c# dio.pdb
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.csproj.AssemblyReference.cache
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.AssemblyInfoInputs.cache
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.AssemblyInfo.cs
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.dll
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\refint\Desafio c# dio.dll
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.pdb
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\Desafio c# dio.genruntimeconfig.cache
+C:\Users\TEMP.alisson-PC.003\Desktop\Desafio c# dio\obj\Debug\net6.0\ref\Desafio c# dio.dll
